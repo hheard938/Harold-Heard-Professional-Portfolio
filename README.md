@@ -1,107 +1,33 @@
-# Harold Heard — Professional Portfolio
-
-Welcome to my professional portfolio.  
-
-This repository highlights my background, resume, skills, certifications, and links to my technical work in AWS, cybersecurity, and IT support.
-
----
-
-## 📄 Resume
-
-My complete professional resume is available here:
-
-👉 **[View Resume (PDF)](resume/HAROLD-HEARDresume.pdf)**
-
----
-
-## 👤 Professional Summary
-
-Cloud & IT Professional with hands-on experience in AWS Cloud services, system administration, cybersecurity, and IT support.  
-
-Skilled in deploying AWS infrastructure, configuring secure environments, managing identity & access, troubleshooting systems, and implementing cloud best practices.
-
-I combine technical ability with strong communication, leadership, and problem-solving skills.
-
----
-
-## 🧠 Core Skills
-
-### **Cloud & DevOps**
-
-- Amazon EC2, S3, VPC, IAM, CloudTrail
-
-- Linux administration (Amazon Linux, Ubuntu)
-
-- Bash scripting & automation
-
-- Web server configuration (Apache)
-
-- Networking: subnets, security groups, routing
-
-### **Cybersecurity**
-
-- Identity & Access Management (IAM)
-
-- Multi-Factor Authentication (MFA)
-
-- Security policies & least privilege
-
-- Logging & monitoring (CloudTrail, SIEM concepts)
-
-### **IT Support**
-
-- Windows & macOS troubleshooting
-
-- Active Directory & Azure AD
-
-- Microsoft 365 administration
-
-- Hardware, software, printers, mobile devices
-
-- Ticketing systems & documentation
-
----
-
-## 🏆 Certifications
-
-- **AWS Cloud Practitioner (In Progress)**
-
-- **CompTIA Security+ (Target)**
-
-- **IT Support & Technical Training (Per Scholas)**
-
----
-
-## 🗂️ Technical Projects
-
-### **AWS Cloud Projects**
-
-Hands-on cloud projects showcasing EC2 deployments, automation, IAM security, S3 hosting, CloudTrail logging, and more.
-
-👉 **AWS Portfolio Repo:**  
-https://github.com/hheard938/Harold-Heard-Portfolio
-
-### **Cybersecurity Projects**  
-
-(Coming soon)
-
-### **IT Support Projects**  
-
-(Coming soon)
-
----
-
-## 🌐 Connect With Me
-
-**LinkedIn:** https://linkedin.com/in/harold-heard-209b11298  
-
-**GitHub:** https://github.com/hheard938  
-
-**Email:** harold.heard72@gmail.com
-
----
-
-More updates and projects coming soon.
-GitHub - hheard938/Harold-Heard-Portfolio: AWS Cloud Projects Portfolio
-AWS Cloud Projects Portfolio. Contribute to hheard938/Harold-Heard-Portfolio development by creating an account on GitHub.
- 
+# Harold Heard — Cybersecurity & Cloud Portfolio
+Aspiring SOC Analyst with hands-on experience investigating Windows security events, analyzing network traffic, triaging endpoint alerts, scanning network services, and documenting security incidents.
+## Certifications
+- SOC Analyst Level 1 (SOCA 1)
+- Google Cybersecurity Professional Certificate
+- AWS Certified Cloud Practitioner
+- CompTIA Security+ — In Progress
+## Technical Skills
+- Splunk SIEM
+- SIEM and security monitoring
+- Windows Event Viewer
+- Microsoft Defender
+- Wireshark packet analysis
+- Nmap network scanning
+- PowerShell
+- Incident triage and documentation
+- AWS cloud fundamentals
+## Featured Cybersecurity Projects
+### [Microsoft Defender EDR Triage](https://github.com/hheard938/Day05-Microsoft-Defender-EDR-Triage)
+Investigated an EICAR test-file alert using Microsoft Defender. Documented detection, quarantine, remediation, event-log correlation, and SOC incident triage.
+### [Windows Failed-Logon Detection](https://github.com/hheard938/day01-windows-failed-logon-detection)
+Generated and investigated Windows Security Event ID 4625 to identify failed authentication activity and document the SOC triage process.
+### [Wireshark DNS NXDOMAIN Analysis](https://github.com/hheard938/Day04-Wireshark-DNS-NXDOMAIN-Analysis)
+Analyzed DNS queries and NXDOMAIN responses using Wireshark display filters, packet evidence, and investigation notes.
+### [Windows Account-Creation Detection](https://github.com/hheard938/Day02-windows-account-creation-detection)
+Investigated Windows Security Event ID 4720 to identify newly created accounts and evaluate potentially unauthorized activity.
+### [Nmap Localhost Port Analysis](https://github.com/hheard938/Day06-Nmap-Localhost-Port-Analysis)
+Performed an authorized Nmap scan, identified active TCP services, correlated ports with Windows processes, and documented the findings.
+## Current Goal
+Seeking an entry-level SOC Analyst, Cybersecurity Analyst, or Security Operations position where I can apply my investigation, documentation, Windows security, networking, and cloud skills.
+## Contact
+- Email: harold.heard72@gmail.com
+- GitHub:  [github.com/hheard938](https://github.com/hheard938)
