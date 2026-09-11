@@ -16,6 +16,8 @@ Aspiring SOC Analyst with hands-on experience investigating Windows security eve
 - Incident triage and documentation
 - AWS cloud fundamentals
 ## Featured Cybersecurity Projects
+### [Splunk SIEM Failed-Login Investigation](https://github.com/hheard938/Splunk-SIEM-Failed-Login-Investigation)
+Investigated nine Windows Event ID 4625 failed-login events using Splunk Enterprise and SPL. Normalized a multivalue account field, analyzed target accounts, source addresses, logon types, and failure reasons, then documented the SOC disposition.
 ### [Microsoft Defender EDR Triage](https://github.com/hheard938/Day05-Microsoft-Defender-EDR-Triage)
 Investigated an EICAR test-file alert using Microsoft Defender. Documented detection, quarantine, remediation, event-log correlation, and SOC incident triage.
 ### [Windows Failed-Logon Detection](https://github.com/hheard938/day01-windows-failed-logon-detection)
